@@ -10,6 +10,7 @@ public class Sun
 	{
 		// TODO Auto-generated method stub
 		System.out.println("sun");
+		System.out.println("sun2");
 
 	}
 
